@@ -115,7 +115,7 @@ void main(void)
 	struct device *leds_dev[2];
 	// struct device *btn_dev;
 
-	// printk( "teste\r\n" );
+	printk( "teste\r\n" );
 
 	uint8_t led_mask = 1;
 	int ret;
