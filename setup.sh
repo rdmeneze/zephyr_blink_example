@@ -1,4 +1,4 @@
 export ZEPHYR_BASE="$(pwd)/zephyr"
 export ZEPHYR_TOOLCHAIN_VARIANT=zephyr
-export ZEPHYR_SDK_INSTALL_DIR=/opt/zephyr-sdk
+export ZEPHYR_SDK_INSTALL_DIR=/home/rdias/zephyr-sdk-0.11.3
 source $ZEPHYR_BASE/zephyr-env.sh
